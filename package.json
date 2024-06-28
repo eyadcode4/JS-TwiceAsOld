@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "vitest": "^1.6.0"
+  },
+  "name": "twice-as-old6b",
+  "version": "1.0.0",
+  "main": "twiceAsOld.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
